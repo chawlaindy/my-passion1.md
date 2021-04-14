@@ -12,7 +12,7 @@
 ### Excel AVERAGE Function
 
 **Summary**
-The Excel AVERAGE function calculates the average (arithmetic mean) of supplied numbers. AVERAGE can handle up to 255 individual arguments, which can include numbers, cell references, ranges, arrays, and constants.
+The Excel AVERAGE function is categorized under Excel Statical functions. It will return the average value of a given series of numbers in Excel.
       
       1.Get the average of a group of numbers
       2.Syntax = SUM(COUNTIF(range,"words1")*num1,COUNTIF(range,"2")*number2)/COUNTA(range)
@@ -52,7 +52,4 @@ The Excel AVERAGE function calculates the average (arithmetic mean) of supplied 
 
 
 
-#### To learn about excel formula:cricket:
-#### To learn about algorithm:mouse:
 
-# How it was implemented
