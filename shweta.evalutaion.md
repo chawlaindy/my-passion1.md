@@ -52,6 +52,7 @@ The Excel AVERAGE function is categorized under Excel Statical functions. It wil
 
 
 ## Conclusion
+I would like to share that i got to learn a lot of new things in this project. and i would like to learn more further and improve the project.
 
 #### Thank You
 
