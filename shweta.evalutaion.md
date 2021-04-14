@@ -31,6 +31,27 @@ The Excel AVERAGE function calculates the average (arithmetic mean) of supplied 
 # Objective of Exercises
 
 #### To learn about excel sheet:bat:
+#### To learn about excel sheet:paperclip:
+#### To learn about excel formula:cat:
+#### To learn about algorithm:dog:
+
+# How it was implemented
+
+## Explanation of Implementation
+
+## Test Results
+
+| **SR-No.** | **TEST CASE** | **TEST OUTCOME** | **EXPECTED OUTCOME** | **STATUS** | **REMARKS** |
+| --- | --- | --- | --- | --- | ---- |
+| **1** | Type the Excellent in Punctuality column. | The Value 5 successfully print in average column when I put the Excellent in Punctuality column. | After put the Excellent  in Punctuality column successfully printed the value 5 in the average column. | **Passed** | Testing has been passed |
+| **2** | Type the Very good in Punctuality column | The Value 4 successfully print in average column when i put the Very good in Punctuality column. | After put the Very good  in Punctuality column successfully printed the value 4 in the average column. | **Passed** | Testing has been passed |
+| **3** | Type the Good in Punctuality column. | The Value 3 successfully print in average column when I put the Good in Punctuality column. | After put the Good in Punctuality column successfully printed the value 3 in the average column. | **Passed** | Testing has been passed |
+| **4** | Type the Satisfactory in Punctuality column | The Value 2 successfully print in average column when i put the Satisfactory in Punctuality column. | After put the Satisfactory in Punctuality column successfully printed the value 2 in the average column. | **Passed** | Testing has been passed |
+| **5** | Type the Fair in Punctuality column. | The Value 1 successfully print in average column when I put the Fair in Punctuality column. | After put the Fair  in Punctuality column successfully printed the value 1 in the average column. | **Passed** | Testing has been passed |
+| **6** | Type the Very Poor in Punctuality column | The Value 0 successfully print in average column when i put the Poor in Punctuality column. | After put the Poor  in Punctuality column successfully printed the value 1 in the average column. | **Passed** | Testing has been passed |
+
+
+
 #### To learn about excel formula:cricket:
 #### To learn about algorithm:mouse:
 
