@@ -51,5 +51,7 @@ The Excel AVERAGE function is categorized under Excel Statical functions. It wil
 | **6** | Type the Very Poor in Punctuality column | The Value 0 successfully print in average column when i put the Poor in Punctuality column. | After put the Poor  in Punctuality column successfully printed the value 1 in the average column. | **Passed** | Testing has been passed |
 
 
+## Conclusion
 
+#### Thank You
 
