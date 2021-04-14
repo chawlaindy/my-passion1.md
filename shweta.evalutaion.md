@@ -39,7 +39,9 @@ The Excel AVERAGE function is categorized under Excel Statical functions. It wil
 
 ## Explanation of Implementation The **SUM function** adds values. You can add individual values, cell references or ranges or a mix of all three.
 The **COUNTIF function** function is an Excel Statical function. This function helps count the number of cells that contain a number, as well as the number of arguments that contain numbers.
+
 The **COUNTA** function counts cells containing any type of information, including error values and empty text("")
+
 The **AVERAGE function** in Excel calculates the average of a group of numbers. The AVERAGE function ignores logical values, empty cells and cells that contain text.
 
 
