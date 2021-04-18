@@ -18,10 +18,12 @@
 
 
 #### Download the google sheet in csv format for evaluation of self and others on the basis of previous performance.
-- [Link for download ]()
+- [Link for download ]( https://docs.google.com/spreadsheets/d/e/2PACX-1vQjSvAMnKpqXy4p1ZCwoBl3OT4YAC3V8p-YKnciBTuPg-GDlVTJkCRNxYQqG_V99d7r6qTYL8OVrW2E/pub?output=csv
+   )
 
 #### Download the google sheet in  csv format for evaluation of self and others on the basis of task1
-- [Link for download ]()
+- [Link for download ](  https://docs.google.com/spreadsheets/d/e/2PACX-1vS-LSRic0lq_Q1g40bfqMAPPgB1fz1oDv7WFltUCyUEbGULpC6qZC2wyJihaj48i043_UzC5wRvpEW_/pub?output=csv
+)
 
 
 ```
