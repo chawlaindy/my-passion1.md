@@ -16,3 +16,14 @@
 ![Screenshot from 2021-04-18 20-47-55](https://user-images.githubusercontent.com/82276807/115156434-e9f10e00-a0a1-11eb-8a0a-562f49ce3315.png)
 ![Screenshot from 2021-04-18 20-48-37](https://user-images.githubusercontent.com/82276807/115156440-ecebfe80-a0a1-11eb-9f65-3d08abf6ff0c.png)
 
+
+#### Download the google sheet in csv format for evaluation of self and others on the basis of previous performance.
+- [Link for download ]()
+
+#### Download the google sheet in  csv format for evaluation of self and others on the basis of task1
+- [Link for download ]()
+
+
+```
+     Thank You
+```
