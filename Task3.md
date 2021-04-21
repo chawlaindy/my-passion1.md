@@ -1,4 +1,4 @@
-h2 align="center">Task-3</h2>
+<h2 align="center">Task-3</h2>
 
 <details>
   <summary> Summary of Task </summary>
