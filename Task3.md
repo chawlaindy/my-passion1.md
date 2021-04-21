@@ -27,6 +27,12 @@ This script written in the Shell script.
     #Author   4: Shweta Mishra
     
     #Date     : 20-04-2021 
+    #This script for self & others evaluation sheet-1
+    
+    #Here the wget command is used to download the csv-file
+    
+    #Here echo command is used to print the message.
+    
 ## Output of bash script
 ![Screenshot-8](https://user-images.githubusercontent.com/82143335/115153043-86f77b00-a091-11eb-91e9-188aac814fe5.png)
 ![Screenshot-9](https://user-images.githubusercontent.com/82143335/115152933-0173cb00-a091-11eb-9d7f-c4cffe865cc6.png)
