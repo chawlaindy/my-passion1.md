@@ -12,10 +12,14 @@ h2 align="center">Task-3</h2>
 </details>
 
 ## Bash script 
-This script written in the Shell script
-![Screenshot-3](https://user-images.githubusercontent.com/82143335/115152308-33cff900-a08e-11eb-936f-982dbae477b3.png)
-![Screenshot-7](https://user-images.githubusercontent.com/82143335/115152905-da1cfe00-a090-11eb-9858-3dedb8248b00.png)
-
+This script written in the Shell script.
+#Script Name- Script task 
+#Description -1: This script has been used to download 2 google spread sheet.
+              2: Both of these Google spread sheet will have the format csv file.
+              2: All the column of the entire csv file will not be printed in the output.
+              3: Only the name, Average and Sum columns and their values should be printed.
+    #Author   4: Shweta Mishra
+    #Date     : 20-04-2021 
 ## Output of bash script
 ![Screenshot-8](https://user-images.githubusercontent.com/82143335/115153043-86f77b00-a091-11eb-91e9-188aac814fe5.png)
 ![Screenshot-9](https://user-images.githubusercontent.com/82143335/115152933-0173cb00-a091-11eb-9d7f-c4cffe865cc6.png)
